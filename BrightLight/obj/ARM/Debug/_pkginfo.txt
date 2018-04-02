@@ -1,0 +1,1 @@
+c:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\AppPackages\BrightLight_1.0.0.0_ARM_Debug_Test\BrightLight_1.0.0.0_ARM_Debug.appx

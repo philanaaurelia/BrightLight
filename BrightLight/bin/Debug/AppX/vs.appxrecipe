@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PHILANA</Machine>
+    <WindowsUser>phbenton</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B083AC158E94E619E22349A5D7ED65FCE3F1E44DA951381C087A997B82C3B47A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d509b5f2-885d-4379-a99d-ea4265a88cb0_1.1.0.0_neutral__h5j96dj9w1zne</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d509b5f2-885d-4379-a99d-ea4265a88cb0_h5j96dj9w1zne!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d509b5f2-885d-4379-a99d-ea4265a88cb0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=phbenton</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-26T22:17:38.825</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.exe">
+      <PackagePath>BrightLight.exe</PackagePath>
+      <Modified>2014-03-27T03:15:42.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.pdb">
+      <PackagePath>BrightLight.pdb</PackagePath>
+      <Modified>2014-03-27T03:15:42.615</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-26T22:16:16.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\peghole.png">
+      <PackagePath>Assets\peghole.png</PackagePath>
+      <Modified>2014-03-26T22:16:16.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\red.png">
+      <PackagePath>Assets\red.png</PackagePath>
+      <Modified>2013-04-06T06:20:54.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\red_lit.png">
+      <PackagePath>Assets\red_lit.png</PackagePath>
+      <Modified>2013-04-06T06:37:37.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-26T22:16:16.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-26T22:16:16.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-26T22:16:16.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\switch_off.png">
+      <PackagePath>Assets\switch_off.png</PackagePath>
+      <Modified>2014-03-26T22:16:16.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\switch_on.png">
+      <PackagePath>Assets\switch_on.png</PackagePath>
+      <Modified>2014-03-26T22:16:16.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-03-26T22:16:14.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-03-26T22:16:17.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-03-26T22:16:15.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-26T22:17:37.989</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

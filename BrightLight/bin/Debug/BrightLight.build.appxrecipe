@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PHILANA</Machine>
+    <WindowsUser>phbenton</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.exe">
+      <PackagePath>BrightLight.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.pdb">
+      <PackagePath>BrightLight.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\blue.png">
+      <PackagePath>Assets\blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\blue_lit.png">
+      <PackagePath>Assets\blue_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\green.png">
+      <PackagePath>Assets\green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\green_lit.png">
+      <PackagePath>Assets\green_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\orange.png">
+      <PackagePath>Assets\orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\orange_lit.png">
+      <PackagePath>Assets\orange_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\peghole.png">
+      <PackagePath>Assets\peghole.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\pink.png">
+      <PackagePath>Assets\pink.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\pink_lit.png">
+      <PackagePath>Assets\pink_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\red.png">
+      <PackagePath>Assets\red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\red_lit.png">
+      <PackagePath>Assets\red_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\switch_off.png">
+      <PackagePath>Assets\switch_off.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\switch_on.png">
+      <PackagePath>Assets\switch_on.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\violet.png">
+      <PackagePath>Assets\violet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\violet_lit.png">
+      <PackagePath>Assets\violet_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\yellow.png">
+      <PackagePath>Assets\yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\Assets\yellow_lit.png">
+      <PackagePath>Assets\yellow_lit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

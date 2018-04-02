@@ -1,0 +1,46 @@
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\bin\Debug\BrightLight.exe
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\bin\Debug\BrightLight.pdb
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\bin\Debug\resources.pri
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\bin\Debug\AppxManifest.xml
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\bin\Debug\BrightLight.build.appxrecipe
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\App.g.i.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\App.g.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\MainPage.g.i.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\MainPage.g.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\App.xaml
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\Common\StandardStyles.xaml
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\MainPage.xaml
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\BrightLight.exe
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\BrightLight.pdb
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\priconfig.xml
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\layout.resfiles
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\resources.resfiles
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\pri.resfiles
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\LanguageQualifiers.txt
+C:\Users\phbenton\Desktop\BrightLight\BrightLight\BrightLight\obj\Debug\ProjectArchitectures.txt
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.exe
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.pdb
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\resources.pri
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\AppxManifest.xml
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\App.g.i.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\App.g.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\MainPage.g.i.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\MainPage.g.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\App.xaml
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\Common\StandardStyles.xaml
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\MainPage.xaml
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\BrightLight.exe
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\BrightLight.pdb
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\priconfig.xml
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\layout.resfiles
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\resources.resfiles
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\pri.resfiles
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\LanguageQualifiers.txt
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\obj\Debug\ProjectArchitectures.txt
+C:\Users\phbenton\Documents\Visual Studio 2012\Projects\BrightLight\BrightLight\bin\Debug\BrightLight.build.appxrecipe
